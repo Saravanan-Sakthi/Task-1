@@ -150,7 +150,6 @@ public class Task1TestRunner {
                 case 15:
                     System.out.println("Print the leaders");
                     masterarray=getArray();
-                    System.out.println("came");
                     new Leaders(masterarray).findLeaders();
                     break;
                 case 16:
